@@ -1,0 +1,538 @@
+[
+	[{
+		"question": "What is the doctype declaration for HTML5?",
+		"A": "<!doctype html5>",
+		"B": "<!doctype html>",
+		"C": "<!--doctype html-->",
+		"D": "doctype html",
+		"answer": "<!doctype html>"
+	}, {
+		"question": "How do I add scrolling text to my page?",
+		"A": "strong",
+		"B": "Marquee",
+		"C": "blockquote",
+		"D": "em",
+		"answer": "Marquee"
+	}, {
+		"question": "Which tag defines the caption for a fieldset element?",
+		"A": "optgroup",
+		"B": "caption",
+		"C": "legend",
+		"D": "label",
+		"answer": "legend"
+	}, {
+		"question": "Which HTML tag is used to define a internal style sheet?",
+		"A": "<CSS>",
+		"B": "<script>",
+		"C": "<style>",
+		"D": "<link>",
+		"answer": "<style>"
+	}, {
+		"question": "Which is the correct CSS syntax?",
+		"A": "body{color: black}",
+		"B": "body: color=black",
+		"C": "{body ;color: black}",
+		"D": "{body: color=black(body}",
+		"answer": "body{color: black}"
+	}, {
+		"question": "How do you write “Hello World” in an alertbox?",
+		"A": " alertbox(“hello world”)",
+		"B": "alert(“Hello World”)",
+		"C": " alertbox=”Hello World” ",
+		"D": " msgbox(“helloWorld”)",
+		"answer": "alert(“Hello World”)"
+	}, {
+		"question": "How can you add an comment in a javascript?",
+		"A": "This is a comment",
+		"B": "<!- - This is a comment-- >",
+		"C": "//This is a comment",
+		"D": "///This is a comment",
+		"answer": "//This is a comment"
+	}, {
+		"question": "What does CSS stands for?",
+		"A": " Computer style sheet",
+		"B": " Colorful style sheet",
+		"C": " Creative style sheet",
+		"D": " Cascading style sheet",
+		"answer": " Cascading style sheet"
+	}, {
+		"question": "Which HTML attribute is used to define inline styles?",
+		"A": "font",
+		"B": "class",
+		"C": "styles",
+		"D": "style",
+		"answer":  "style"
+	}, {
+		"question": "Which CSS property controls the text size?",
+		"A": "font-size",
+		"B": "text-style",
+		"C": "font-style",
+		"D": "text-size",
+		"answer": "font-size"
+	}],
+	[{
+		"question": "The original name of 'Mahabharata' is",
+		"A": "Katha Saritsagar",
+		"B": "Jai Samhita",
+		"C": "Vrahat Katha",
+		"D": "Rajatarangini",
+		"answer": "Jai Samhita"
+	}, {
+		"question":"Who was first Governor General of free India ?",
+		"A":"Wavell",
+		"B":"Linlithgow",
+		"C":"Willingdon",
+		"D":"Mountbatten",
+		"answer":"Mountbatten"
+	}, {
+		"question": "Most highly intelligent mammals are",
+		"A": "whales",
+		"B": "dolphins",
+		"C": "elephants",
+		"D": "kangaroos",
+		"answer": "dolphins"
+	}, {
+		"question": "Photosynthesis takes place faster in",
+		"A": "yellow light",
+		"B": "white light",
+		"C": "red light",
+		"D": "darkness",
+		"answer": "white light"
+	}, {
+		"question": "Pigmentation of skin is due to",
+		"A": "lymphocytes",
+		"B": "monocytes",
+		"C": "leucocytes",
+		"D": "melanocytes",
+		"answer": "melanocytes"
+	}, {
+		"question": "Plant have ____ while animals lack it.",
+		"A": "cellulose",
+		"B": "starch",
+		"C": "protein",
+		"D": "fat",
+		"answer": "cellulose"
+	}, {
+		"question": "Sodium metal is kept under",
+		"A": "petrol",
+		"B": "alcohol",
+		"C": "water",
+		"D": "kerosene",
+		"answer": "kerosene"
+	}],
+
+
+
+	[{
+		"question": "Night blindness is cause by lack of which vitamin?",
+		"A": "Vitamin A",
+		"B": "Vitamin B",
+		"C": "Vitamin C",
+		"D": "Vitamin D",
+		"answer": "Vitamin A"
+	}, {
+		"question": "Nymph is the name of young one of",
+		"A": "butterfly",
+		"B": "beetle",
+		"C": "housefly",
+		"D": "cockroach",
+		"answer": "cockroach"
+	}, {
+		"question": "'.BAT' extension refers usually to what kind of file?",
+		"A": "Compressed Archive file",
+		"B": "System file",
+		"C": "Audio file",
+		"D": "Backup file",
+		"answer": "System file"
+	}, {
+		"question": "Blue is what number on the resistor color code?",
+		"A": "1",
+		"B": "4",
+		"C": "2",
+		"D": "6",
+		"answer": "6"
+	}, {
+		"question": "R. K. Laxman is a renowned",
+		"A": "Dance master",
+		"B": "Writer",
+		"C": "Cartoonist",
+		"D": "Journalist",
+		"answer": "Cartoonist"
+	}, {
+		"question": "Who is known as the 'Lady with the Lamp'?",
+		"A": "Florence Nightingale",
+		"B": "Sarojini Naidu",
+		"C": "Indira Gandhi",
+		"D": "Joan of Arc",
+		"answer": "Florence Nightingale"
+	}, {
+		"question": "The famous Dilwara Temples are situated in",
+		"A": "Uttar Pradesh",
+		"B": "Rajasthan",
+		"C": "Maharashtra",
+		"D": "Madhya Pradesh",
+		"answer": "Rajasthan"
+	}],
+
+	[{
+		"question": "The Indian Institute of Science is located at",
+		"A": "Kerala",
+		"B": "Madras",
+		"C": "Bangalore",
+		"D": "New Delhi",
+		"answer": "Bangalore"
+	}, {
+		"question": "The 'Dronacharya Award' is given to?",
+		"A": "Sportsmen",
+		"B": "Coaches",
+		"C": "Umpires",
+		"D": "Sports Editors",
+		"answer": "Coaches"
+	}, {
+		"question": "'Dizzy' is the nickname of what Australian player?",
+		"A": "Adam Gilchrist",
+		"B": "Jason Gillespie",
+		"C": "Glenn McGrath",
+		"D": "Brett Lee",
+		"answer": "Jason Gillespie"
+	}, {
+		"question": "The 'Cannes Award' is given for excellence in which field?",
+		"A": "Films",
+		"B": "Journalism",
+		"C": "Literature",
+		"D": "Economics",
+		"answer": "Films"
+	}, {
+		"question": "The 'Char Minar' is in",
+		"A": "Ahmedabad",
+		"B": "Hyderabad",
+		"C": "Delhi",
+		"D": "Sikri",
+		"answer": "Hyderabad"
+	}, {
+		"question": "Which is known as 'Garden City of India'?",
+		"A": "Trivandram",
+		"B": "Imphal",
+		"C": "Simla",
+		"D": "Bangalore",
+		"answer": "Bangalore"
+	}, {
+		"question": "'Dandia' is a popular dance of",
+		"A": "Punjab",
+		"B": "Gujarat",
+		"C": "Tamil Nadu",
+		"D": "Maharashtra",
+		"answer": "Gujarat"
+	}],
+
+
+	[{
+		"question": "The National Song of India was composed by",
+		"A": "Rabindranath Tagore",
+		"B": "Bankim Chandra Chatterji",
+		"C": "Iqbal",
+		"D": "Jai Shankar Prasad",
+		"answer": "Bankim Chandra Chatterji"
+	}, {
+		"question": "Plants receive their nutrients mainly from",
+		"A": "chlorophyll",
+		"B": "atmosphere",
+		"C": "light",
+		"D": "soil",
+		"answer": "soil"
+	}, {
+		"question": "The highest rank in Army is that of",
+		"A": "Brigadier",
+		"B": "Lieutenant General",
+		"C": "Major General",
+		"D": "General",
+		"answer": "General"
+	}, {
+		"question": "Which of the following is used in pencils?",
+		"A": "Graphite",
+		"B": "Silicon",
+		"C": "Charcoal",
+		"D": "Phosphorous",
+		"answer": "Graphite"
+	}, {
+		"question": "The hardest substance available on earth is",
+		"A": "Gold",
+		"B": "Iron",
+		"C": "Diamond",
+		"D": "Platinum",
+		"answer": "Diamond"
+	}, {
+		"question": "Which of the following is used as a lubricant?",
+		"A": "Graphite",
+		"B": "Silica",
+		"C": "Iron Oxide",
+		"D": "Diamond",
+		"answer": "Graphite"
+	}, {
+		"question": "What is laughing gas?",
+		"A": "Nitrous Oxide",
+		"B": "Carbon monoxide",
+		"C": "Sulphur dioxide",
+		"D": "Hydrogen peroxide",
+		"answer": "Nitrous Oxide"
+	}],
+
+	[{
+		"question": "The ozone layer restricts",
+		"A": "Visible light",
+		"B": "Infrared radiation",
+		"C": "X-rays and gamma rays",
+		"D": "Ultraviolet radiation",
+		"answer": "Ultraviolet radiation"
+	}, {
+		"question": "Coral reefs in India can be found in",
+		"A": "the coast of Orissa",
+		"B": "Waltair",
+		"C": "Rameshwaram",
+		"D": "Trivandrum",
+		"answer": "Rameshwaram"
+	}, {
+		"question": "Headquarters of UNO are situated at",
+		"A": "New York, USA",
+		"B": "Hague (Netherlands)",
+		"C": "Geneva",
+		"D": "Paris",
+		"answer": "New York, USA"
+	}, {
+		"question": "Who invented the BALLPOINT PEN?",
+		"A": "Biro Brothers",
+		"B": "Waterman Brothers",
+		"C": "Bicc Brothers",
+		"D": "Write Brothers",
+		"answer": "Biro Brothers"
+	}, {
+		"question": "CORN FLAKES - Who made them first?",
+		"A": "Nabisco",
+		"B": "Kellogg",
+		"C": "Quaker",
+		"D": "Archers",
+		"answer": "Kellogg"
+	}, {
+		"question": "Golden Temple, Amritsar is India's",
+		"A": "largest Gurdwara",
+		"B": "oldest Gurudwara",
+		"C": "Both A and B ",
+		"D": "None of the above",
+		"answer": "largest Gurdwara"
+	}, {
+		"question":"Tipu sultan was the ruler of ?",
+		"A":"Bengal",
+		"B":"Karnataka",
+		"C":"Hyderabad",
+		"D":"Mysore",
+		"answer":"Mysore"
+	}],
+
+
+	[{
+		"question": "India has largest deposits of ____ in the world.",
+		"A": "gold",
+		"B": "copper",
+		"C": "mica",
+		"D": "None of the above",
+		"answer": "mica"
+	}, {
+		"question": "India's first satellite is named after",
+		"A": "Aryabhatta",
+		"B": "Bhaskara II",
+		"C": "Bhaskara I",
+		"D": "Albert Einstein",
+		"answer": "Aryabhatta"
+	}, {
+		"question": "In which season do we need more fat?",
+		"A": "Rainy season",
+		"B": "Spring",
+		"C": "Winter",
+		"D": "Summer",
+		"answer": "Winter"
+	}, {
+		"question": "How many teeth does a normal adult dog have?",
+		"A": "32",
+		"B": "34",
+		"C": "38",
+		"D": "42",
+		"answer": "42"
+	}, {
+		"question": "Sulphur is not present in",
+		"A": "iron pyrites",
+		"B": "gypsum",
+		"C": "coal",
+		"D": "chlorapatite",
+		"answer": "chlorapatite"
+	}, {
+		"question":"S.I. unit of Pressure is",
+		"A":"newton second",
+		"B":"pascal",
+		"C":"watt",
+		"D":"newton per meter",
+		"answer":"pascal"
+	}, {
+		"question": "Which of the following defines a measurement in inches?",
+		"A": "in",
+		"B": "mm",
+		"C": "pc",
+		"D": "pt",
+		"answer": "in"
+	}],
+
+
+	[{
+		"question": "Homolographic projection has correct representation of",
+		"A": "shape",
+		"B": "area",
+		"C": "baring",
+		"D": "distance",
+		"answer": "area"
+	}, {
+		"question": "The great Victoria Desert is located in",
+		"A": "Canada",
+		"B": "West Africa",
+		"C": "Australia",
+		"D": "North America",
+		"answer": "Australia"
+	}, {
+		"question":"Which was the largest site of Indus Civilization ?",
+		"A":"Mohenjodaro",
+		"B":"Lothal",
+		"C":"Chanhudaro",
+		"D":"Dholavira",
+		"answer":"Mohenjodaro"
+	}, {
+		"question": "Which of the following is not associated with the UNO?",
+		"A": "ILO",
+		"B": "WHO",
+		"C": "ASEAN",
+		"D": "All of the above",
+		"answer": "ASEAN"
+	}, {
+		"question": "Under Akbar, the Mir Bakshi was required to look after",
+		"A": "military affairs",
+		"B": "the state treasury",
+		"C": "the royal household",
+		"D": "the land revenue system",
+		"answer": "military affairs"
+	}, {
+		"question": "Choose the client-side JavaScript object:",
+		"A": "Database",
+		"B": "Cursor",
+		"C": "Client",
+		"D": "FileUpLoad",
+		"answer": "FileUpLoad"
+	}, {
+		"question": "parseFloat(“FF2”)=?",
+		"A": "152",
+		"B": "FF2",
+		"C": "NaN",
+		"D": "None",
+		"answer": "NaN"
+	}],
+
+	[{
+		"question": "ICICI is the name of a",
+		"A": "chemical industry",
+		"B": "bureau",
+		"C": "corporation",
+		"D": "financial institution",
+		"answer": "financial institution"
+	}, {
+		"question":"The Red Fort was built by",
+		"A":"Akbar",
+		"B":"Shahjhan",
+		"C":"Jahangir",
+		"D":"Sher Shah",
+		"answer":"Shahjhan"
+	}, {
+		"question": "Who is the father of Geometry?",
+		"A": "Aristotle",
+		"B": "Euclid",
+		"C": "Pythagoras",
+		"D": "Kepler",
+		"answer": "Euclid"
+	}, {
+		"question": "Who was known as Iron man of India?",
+		"A": "Govind Ballabh Pant",
+		"B": "Jawaharlal Nehru",
+		"C": "Subhash Chandra Bose",
+		"D": "Sardar Vallabhbhai Patel",
+		"answer": "Sardar Vallabhbhai Patel"
+	}, {
+		"question": "The ratio of width of our National flag to its length is",
+		"A": "3:5",
+		"B": "2:3",
+		"C": "2:4",
+		"D": "3:4",
+		"answer": "2:3"
+	}, {
+		"question": "The language of discourses of Gautama Buddha was",
+		"A": "Bhojpuri",
+		"B": "Magadhi",
+		"C": "Pali",
+		"D": "Sanskrit",
+		"answer": "Pali"
+	}, {
+		"question": "Which of the following code creates an object?",
+		"A": "var book = Object()",
+		"B": "var book = new Object()",
+		"C": "var book = new OBJECT()",
+		"D": "var book = new Book()",
+		"answer": "var book = new Object()"
+	}],
+
+
+	[{
+		"question": "Which of the following is a component of CSS style rule?",
+		"A": "Selector",
+		"B": "Property",
+		"C": "Value",
+		"D": "All of the above",
+		"answer": "All of the above"
+	}, {
+		"question": "Washing soda is the common name for",
+		"A": "Sodium carbonate",
+		"B": "Calcium bicarbonate",
+		"C": "Sodium bicarbonate",
+		"D": "Calcium carbonate",
+		"answer": "Sodium carbonate"
+	}, {
+		"question": "Which of the following defines 1% of viewport height?",
+		"A": "px",
+		"B": "vh",
+		"C": "vw",
+		"D": "vmin",
+		"answer": "vh"
+	}, {
+		"question": "The gas usually filled in the electric bulb is",
+		"A": "nitrogen",
+		"B": "hydrogen",
+		"C": "carbon dioxide",
+		"D": "oxygen",
+		"answer": "nitrogen"
+	}, {
+		"question": "Big Bang theory explains ?",
+		"A": "Origin of Universe",
+		"B": "Origin of Sun",
+		"C": "Laws of physics",
+		"D": "None of above",
+		"answer": "Origin of Universe"
+	}, {
+		"question": "Which city is also known as 'Eternal City'?",
+		"A": "Cape Town",
+		"B": "Oslo",
+		"C": "Rome",
+		"D": "Tokyo",
+		"answer": "Rome"
+	}, {
+		"question": "The science of study of soils is called?",
+		"A": "Seismology",
+		"B": "Pedology",
+		"C": "Ecology",
+		"D": "Zoogeography",
+		"answer": "Pedology"
+	}]
+
+]
