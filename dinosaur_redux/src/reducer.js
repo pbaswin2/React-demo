@@ -3,7 +3,7 @@ const reducer=(state={dinosaur:{}},action)=>{
     switch(action.type){
        
         case constants.FETCH_DINOSAUR_SUCCESS:{
-            state={...state,dinosaur:action.payload}
+            return {...state,dinosaur:action.payload}
         }
         case constants.FETCH_DINOSAUR_FAILURE:{
             return state;
