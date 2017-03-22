@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import {Col,ListGroup,ListGroupItem} from "react-bootstrap"
 
 class Details extends Component {
     render () {
@@ -8,11 +9,13 @@ class Details extends Component {
 
         let categories=Object.keys(dinosaur[title]);
          detail=categories.map((category,index)=>{
-    return <li key={index}>{dinosaur[title][category]}</li>})}
+    return <ListGroupItem key={index}>{category}:{dinosaur[title][category]}</ListGroupItem>})}
         return (
-            <ul>
+            <Col sm={6}>
+            <ListGroup>
                 {detail}
-            </ul>
+            </ListGroup>
+            </Col>
         )
     }
 }

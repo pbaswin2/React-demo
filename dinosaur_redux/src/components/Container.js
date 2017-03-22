@@ -4,6 +4,7 @@ import Content from "./Content"
 import {connect} from "react-redux"
 import * as dispatchAction from "../action"
 import{bindActionCreators} from "redux"
+import {Panel} from "react-bootstrap"
 
 @connect(
       (state) => ({
@@ -20,11 +21,11 @@ class Container extends Component {
 }
     render () {
         return (
-            <div>
+            <Panel header="Dinosaur" bsStyle="success">
                 <Menu keys={Object.keys(this.props.dinosaur)}/>
                 <Content dinosaur={this.props.dinosaur} id={this.props.params.id}/>
                                 
-            </div>
+            </Panel>
         )
     }
 }

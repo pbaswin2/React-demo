@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
+import {PageHeader} from "react-bootstrap"
 
 class Header extends Component {
     render () {
         let {title}=this.props;
         return (
-            <div>
-                    <h2>{title}</h2>    
-            </div>
+
+                    <PageHeader>{title}</PageHeader>    
+            
         )
     }
 }
