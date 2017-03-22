@@ -7,7 +7,7 @@ const reducer=(state={runs:0,ball:0,four:0,six:0,dot:0},action)=>{
         case "Run":{
            switch(action.payLoad){
             case 0:{
-                return Object.assign({},state,{runs:state.runs+action.payLoad,ball:state.ball+1,dot:state.dot+1})
+                return Object.assign({},state,{ball:state.ball+1,dot:state.dot+1})
             }
             case 1:
             case 2:

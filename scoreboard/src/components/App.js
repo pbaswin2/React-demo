@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import {connect} from "react-redux"
 import * as dispatchAction from "../action"
 import{bindActionCreators} from "redux"
+import {Table,Button,Panel} from "react-bootstrap"
 import {browserHistory} from "react-router"
 
 @connect(
@@ -39,8 +40,8 @@ class App extends Component {
     console.log(browserHistory);
         
         return (
-                <div>
-                    <table>
+                <Panel header="Score Board" bsStyle="primary">
+                    <Table striped bordered condensed hover>
                         <thead>
                             <tr>
                                 <th>Name</th>
@@ -68,32 +69,32 @@ class App extends Component {
 
                             </tr>
                         </tbody>
-                    </table>
-                    <table>
+                    </Table>
+                    <Table striped bordered condensed hover>
                         <tbody>
                             <tr>
                                 <td onClick={()=>{this.props.actions.run(1)}}>
-                                    <button>1</button>
+                                    <Button>1</Button>
                                 </td>
                                 <td onClick={()=>{this.props.actions.run(2)}}>
-                                    <button>2</button>
+                                    <Button>2</Button>
                                 </td>
                                 <td onClick={()=>{this.props.actions.run(3)}}>
-                                    <button>3</button>
+                                    <Button>3</Button>
                                 </td>
                                 <td onClick={()=>{this.props.actions.run(4)}}>
-                                    <button>4</button>
+                                    <Button>4</Button>
                                 </td>
                                 <td onClick={()=>{this.props.actions.run(6)}}>
-                                    <button>6</button>
+                                    <Button>6</Button>
                                 </td>
                                 <td onClick={()=>{this.props.actions.run(0)}}>
-                                    <button>0</button>
+                                    <Button>0</Button>
                                 </td>
                             </tr>
                         </tbody>
-                    </table>
-                </div>
+                    </Table>
+                </Panel>
         )
     }
 }
