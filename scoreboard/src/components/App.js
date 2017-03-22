@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import {connect} from "react-redux"
 import * as dispatchAction from "../action"
 import{bindActionCreators} from "redux"
-import {Table} from "react-bootstrap"
 import {browserHistory} from "react-router"
 
 @connect(
@@ -41,7 +40,7 @@ class App extends Component {
         
         return (
                 <div>
-                    <Table>
+                    <table>
                         <thead>
                             <tr>
                                 <th>Name</th>
@@ -69,8 +68,8 @@ class App extends Component {
 
                             </tr>
                         </tbody>
-                    </Table>
-                    <Table>
+                    </table>
+                    <table>
                         <tbody>
                             <tr>
                                 <td onClick={()=>{this.props.actions.run(1)}}>
@@ -93,7 +92,7 @@ class App extends Component {
                                 </td>
                             </tr>
                         </tbody>
-                    </Table>
+                    </table>
                 </div>
         )
     }
