@@ -1,0 +1,29 @@
+.container{
+}
+.off-canvas-content{
+	
+}
+.title-bar{
+	position: absolute;
+    z-index: 2;
+    width: 100%;
+    background: rgba(0,0,0,0.1);
+}
+h2{
+	margin:0;
+}
+.services{
+	background: url("../images/service.jpg") center center no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+}
+.event{
+	background: url("../images/event.jpg") center center no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+}
+.client{
+	background: url("../images/test1.jpg") center center no-repeat fixed;
+	background-size: cover;
+	color: #fff;
+}
